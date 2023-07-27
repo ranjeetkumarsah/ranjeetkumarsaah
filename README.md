@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Vrindagupta6828/Vrindagupta6828/master/assest/hello.gif" alt="hello" /> </p>
+<p><img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="sujit kumar" width="300px" height="370px" /></p>
+
+<h1 align="center">Hi 👋, I'm Ranjeet Kumar  <img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px"</h1>
 <h3 align="center">A passionate Software Engineer developer from India</h3>
 <img align="right" alt="coding" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeetkumarsaah&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetkumarsaah" /> </p>
