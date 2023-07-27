@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ranjeet-kumar-7b3889246/](https://www.linkedin.com/in/ranjeet-kumar-7b3889246/)
-
 - 📫 How to reach me **kmrranjeet842001@gmail.com**
 
 - 📄 Know about my experiences [https://publuu.com/flip-book/198041/479732](https://publuu.com/flip-book/198041/479732)
